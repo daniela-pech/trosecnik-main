@@ -1,9 +1,29 @@
 h1 {
-  color: red;
-  background-color: burlywood;
+  color: rgb(197, 76, 0);
+  background-color: rgb(246, 193, 182);
+  font-size: 50px;
 }
 
 p {
   background-color: brown;
   color: white;
+}
+
+a {
+  color: lightsalmon;
+  font-weight: bold;
+  font-size: large;
+  font-style: oblique;
+}
+
+h2,
+h3 {
+  color: rgb(219, 182, 60)
+}
+
+body {
+  background-color: rgb(238, 225, 225);
+  font-family: cursive;
+  text-align: center;
+  line-height: 50px;
 }
