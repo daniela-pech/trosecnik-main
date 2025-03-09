@@ -5,8 +5,7 @@ h1 {
 }
 
 p {
-  background-color: brown;
-  color: white;
+  color: rgb(12, 11, 11);
 }
 
 a {
@@ -26,4 +25,30 @@ body {
   font-family: cursive;
   text-align: center;
   line-height: 50px;
+}
+
+.hraci {
+  background-color: rgb(107, 3, 3);
+}
+
+table {
+  width: 60%;
+  table-layout: fixed;
+}
+
+.prvni {
+  width: 50%;
+}
+
+.druhy {
+  width: 30%;
+}
+
+.treti {
+  width: 50%;
+}
+
+div {
+  border: 3px solid red;
+  border-radius: 10%
 }
